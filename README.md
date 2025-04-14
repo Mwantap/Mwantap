@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwantap
 - 👀 I’m interested in making a game 
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning back-end and front-end web development 
 - 💞️ I’m looking to collaborate on whatsapp, facebook, or any other platforms
 - 📫 How to reach me? Just contact me using whatsapp
 - 😄 Pronouns: He/him
